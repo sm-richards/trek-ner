@@ -1,0 +1,14 @@
+Batch 0: IAA (everyone do this)
+Count: 33
+
+Batch 1: Luke
+Count: 167
+
+Batch 2: Mark
+Count: 167
+
+Batch 3: Emily
+Count: 167
+
+Batch 4: Samantha
+Count: 172
