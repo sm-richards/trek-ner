@@ -2,6 +2,7 @@ import os
 import json
 from collections import defaultdict
 import random
+import jsonlines
 
 rootdir = './Datasets'
 all = defaultdict(list)
@@ -38,9 +39,10 @@ for series, episodes in all.items():
         print(f'batch {number} size: ', len(batch))
         counts[number] += len(batch)
         with open(f'batch_{number}.jsonl', 'a') as json_out:
+            writer = jsonlines.Writer(json_out)
             for ep in batch:
                 ep['batch_id'] = number
-                json_out.write(json.dumps(ep))
+                writer.write(ep)
 
 print('\n', counts)
 
