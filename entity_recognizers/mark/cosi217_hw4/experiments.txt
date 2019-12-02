@@ -1,0 +1,88 @@
+Mark Hutchens
+
+My best performing setup for HW3 was:
+TokenFeature (duh)
+TitlecaseFeature
+InitialTitlecaseFeature
+WordShapeFeature
+
+With Brown Cluster prefixes of [4,6,10,20]
+And Word Vector scaling of 2.0
+
+This resulted in:
+"": 	PRF1(precision=0.4600, recall=0.3898, f1=0.4220)
+BIZ: 	PRF1(precision=0.3636, recall=0.4000, f1=0.3810)
+QUAL: 	PRF1(precision=0.4262, recall=0.3399, f1=0.3782)
+INGRED:	PRF1(precision=0.3579, recall=0.4533, f1=0.4000)
+DISH: 	PRF1(precision=0.5981, recall=0.4000, f1=0.4794)
+SERV: 	PRF1(precision=0.7500, recall=0.6000, f1=0.6667)
+
+Looks like we're gonna hang out in the 40s for overall f1 tonight. It seems to struggle with qualities especially. Services are down pat, and dishes seem alright.
+
+Without either the Brown Clusters or the Word Embeddings:
+"":	PRF1(precision=0.3657, recall=0.2736, f1=0.3130)
+BIZ: 	PRF1(precision=0.2581, recall=0.4000, f1=0.3137)
+QUAL: 	PRF1(precision=0.3517, recall=0.3333, f1=0.3423)
+INGRED:	PRF1(precision=0.3182, recall=0.2800, f1=0.2979)
+DISH: 	PRF1(precision=0.4925, recall=0.2063, f1=0.2907)
+SERV: 	PRF1(precision=0.0000, recall=0.0000, f1=0.0000)
+
+Cutting out the very-useful features just eviscerated our service detector. And all the rest. Most are under a third. Surprisingly, qualities went from our worst to our best. But not because they did better. Guess Clusters/Embeddings don't inform my interpretation of qualities. Which to be fair, those have lots of phrases.
+
+
+With just the Embeddings:
+"":	PRF1(precision=0.4204, recall=0.3390, f1=0.3753)
+BIZ: 	PRF1(precision=0.2727, recall=0.3000, f1=0.2857)
+QUAL: 	PRF1(precision=0.3934, recall=0.3137, f1=0.3491)
+INGRED:	PRF1(precision=0.3293, recall=0.3600, f1=0.3439)
+DISH: 	PRF1(precision=0.5490, recall=0.3500, f1=0.4275)
+SERV: 	PRF1(precision=0.6000, recall=0.6000, f1=0.6000)
+
+Dishes jumped back up a fair bit, almost to normal. And that's the largest driver of the f1 improvement. I'm not sure why it's better at doing Services but not Businesses. Those feel like they should be, uh, correlated
+
+With just the Clusters:
+"": 	PRF1(precision=0.4046, recall=0.3850, f1=0.3945)
+BIZ: 	PRF1(precision=0.4286, recall=0.6000, f1=0.5000)
+QUAL: 	PRF1(precision=0.3960, recall=0.3856, f1=0.3907)
+INGRED:	PRF1(precision=0.2842, recall=0.3600, f1=0.3176)
+DISH:	PRF1(precision=0.5041, recall=0.3813, f1=0.4342)
+SERV: 	PRF1(precision=0.0000, recall=0.0000, f1=0.0000)
+
+Opposite on the Business/Service front here. Businesses actually jump to a solid 0.5, best number of the night. Between the Clusters and the Embeddings, each one individually improves the f1 of most labels across the board, and the improvement is magnified further when both are employed. So they are each definitely worth it.
+
+
+I'm going to noodle with the values a bit, see what I can get.
+
+Cutting the scaling down to one on the Embeddings gave slight overall improvement. f1 of 0.4289.
+Prefixes of [2,4,8,16] got me to f1 = 0.4323.
+Full paths was a tick back down to 0.4105. So 2/4/8/16 it is.
+
+I added back the features that weren't uppercase or bias. Everything else turned on:
+"": 	PRF1(precision=0.4645, recall=0.4116, f1=0.4365)
+BIZ: 	PRF1(precision=0.4444, recall=0.6000, f1=0.5106)
+QUAL: 	PRF1(precision=0.4370, recall=0.3856, f1=0.4097)
+INGRED:	PRF1(precision=0.3529, recall=0.4800, f1=0.4068)
+DISH: 	PRF1(precision=0.6186, recall=0.3750, f1=0.4669)
+SERV: 	PRF1(precision=0.6000, recall=0.6000, f1=0.6000)
+
+Eh, seems worth it.
+
+Now for squishing together DISH-INTEG:
+"": 		PRF1(precision=0.5956, recall=0.5278, f1=0.5597)
+BIZ: 		PRF1(precision=0.4444, recall=0.6000, f1=0.5106)
+QUAL: 		PRF1(precision=0.4370, recall=0.3856, f1=0.4097)
+DISH-INGRED: 	PRF1(precision=0.7236, recall=0.6128, f1=0.6636)
+SERV: 		PRF1(precision=0.6000, recall=0.6000, f1=0.6000)
+
+Unsurprisingly, f1 improves. What were lackluster precision for Ingredients and lackluster recall for Dishes has pooled together to form a mighty beast of vengeance, ready to cook and serve all that oppose it.
+
+Like, an f1 of 0.6636 is heckin good. Makes it pretty clear what each one is most often confused for.
+
+I didn't really feel like tuning and writing new features here. But here's with a window of size 2 (not 1) to close out:
+"": 		PRF1(precision=0.5767, recall=0.5278, f1=0.5512)
+BIZ: 		PRF1(precision=0.2963, recall=0.4000, f1=0.3404)
+QUAL: 		PRF1(precision=0.4189, recall=0.4052, f1=0.4120)
+DISH-INGRED: 	PRF1(precision=0.7323, recall=0.6170, f1=0.6697)
+SERV: 		PRF1(precision=0.6000, recall=0.6000, f1=0.6000)
+
+Not much improvement there.. None, really, mostly on the back of businesses decreasing precision.
