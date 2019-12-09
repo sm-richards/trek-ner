@@ -1,0 +1,237 @@
+
+
+CHAPTER 8
+Chakotay sampled a dab of protein paste and grimaced. It resembled old, plain oatmeal, congealed and devoid of flavor. Chakotay took a moment to gird himself, then he picked up the tube of paste and squeezed its contents directly into his mouth.
+“Ugh, ack.” He grabbed the water bladder he’d been provided with his meal and bit down on the valve to let the liquid free, washing down the slimy paste with three deep gulps of lukewarm water.
+“I know, putrid stuff,” said Hux. “Not that I have any direct experience, mind you, but I’ve fed similar concoctions to twelve thousand, eight hundred and twenty-two other detained visitors over the millennia, and all but one hundred and fourteen of them provided unfavorable reviews.”
+Chakotay took one more pull on the water bladder and swished it around his mouth, clearing the last bits of paste from his palate before swallowing.
+“One and a half stars,” said Chakotay. “I’ve had worse, but not by much.”
+Hux nodded thoughtfully, no doubt adding another negative review to his tally.
+“Well, it’ll keep you nourished, at any rate. The Delurididug Trade Federation does not neglect its detainees.”
+Chakotay was forced to agree. The room in which the station held him captive resembled a budget suite at a Rigelian hostel more than a holding cell. The cot in the corner was clean and reasonably comfortable, there were a table and three chairs, there was a food slot on the wall where the protein paste had materialized, and there was an interface screen on the wall, although it was off, and it had no obvious controls. A single floating orb of yellow-white light hovered near the ceiling, providing comfortable illumination for the room.
+Chakotay contemplated the depleted tube of protein paste on the table in front of him, wishing there was something else he could eat. The modest serving of paste would probably sustain him in his captivity until his shipmates returned, but it was far from filling.
+Hux took a seat opposite Chakotay at the table and leaned in, resting his illusory weight on his holographic elbows. “Would you like to try something you might find a bit more palatable?” said the projection.
+Chakotay arched an eyebrow. No doubt, it would come at a cost. It occurred to Chakotay that he still didn’t know what the Trade Hub actually traded for.
+“Unfortunately, I haven’t got any currency,” said Chakotay.
+“That’s not such a problem,” said Hux. “The Trade Hub receives many visitors who have no formal trade relations or currency exchanges with the Delurididug Trade Federation. We are more than happy to barter.”
+Chakotay sighed and sat back in his chair. “Well, I don’t have anything to barter, either. However, Voyager has stores of dilithium crystal, gold-pressed latinum, verterium cortenide…”
+Hux shook his head. “I’m sorry, but from what I can gather of your people’s technological development, I doubt you possess any kind of mineral wealth that we can’t synthesize for ourselves on the station.”
+That brought Chakotay up short. “Well… Why don’t you try me? What would you be interested in?”
+Hux looked dubious. “Crystalline benamite? Bioavailable kironide? Anti-protomatter? Polyphasic neutronium? Hexaburnium?”
+Chakotay shook his head, suddenly feeling a lot less confident that they would be able to win over the station’s cooperation through trade. He’d never even heard of a few of the things Hux listed. Still, he pushed forward. “We might be able to track down some of those things on the other side of the wormhole if you make it worth our while,” he said.
+Hux shook his head. “By the time you returned, your access point would be long gone.”
+The hairs on Chakotay’s neck rose, and he sat up in his chair. He reined himself in, though, not wanting his captor to catch him fretting. Affecting an air of nonchalance, he adjusted the sleeve of his uniform and said, “The wormhole isn’t a permanent structure? How much longer will it last?”
+Hux put his hands up in a placating gesture, as if Chakotay had exploded in panic. “It should last long enough for us to conclude our business, so long as your shipmates don’t dawdle. Maintaining the access point over the long term simply isn’t cost effective during the current Travel Network maintenance cycle, I’m afraid.”
+Chakotay considered the hologram’s words for a moment. “I’m curious, how long has the current maintenance cycle been in progress?”
+“Four thousand, one hundred and forty-one Earth years,” said Hux.
+“That can’t be right,” said Chakotay. “What kind of maintenance cycle is measured in millennia?”
+Hux shrugged. “We apologize for any inconvenience. Occasional, unforeseen delays are inevitable in eight-dimensional, sub-spatial architecture projects of this magnitude.”
+“Well, maybe there’s a way for Voyager to help you hasten your repairs.”
+Hux shook his head sadly. “I’m afraid that’s out of the question.”
+“Why?” said Chakotay. “We’ll soon have this current misunderstanding out of the way. I hope that when that’s taken care of, we can have a mutually beneficial relationship.”
+“I’m heartened to hear you say that,” said Hux. “I hope you’re right. But the workings of the Delurididug Travel Network are highly proprietary. We can’t contract third-party labor. I can’t even discuss issues of procurement with non-Delurididug parties.”
+Chakotay did his best to push down his rising frustration and disappointment. “Well, if you aren’t interested in our material wealth, and you don’t want help with your wormholes, what are you interested in?”
+“Why, intellectual property, of course!”
+“Of what sort?” said Chakotay.
+“All sorts! Charts, schematics, scientific treatises, genomic and proteomic sequences, artistic and cultural works, you name it!”
+Chakotay smiled. Voyager had detailed star charts from all four quadrants of the galaxy, a vast cultural database cataloging works from thousands of distinct civilizations, and similarly vast scientific and medical databases to match. If those were things the Delurididug valued, then the crew of Voyager was about to be VIPs. “In that case, Mr. Hux, I think we’ll be able to do business after all.”
+ 
+
+ 
+“I think we’ll be able to hold our own, sir,” said Lieutenant Ayala. “At least briefly. Hopefully, long enough to free Chakotay and make an emergency beam out.”
+Janeway found his confidence refreshing, if a bit over-optimistic. 
+The crew had worked straight through Gamma shift on devising a strategy to deal with the space station. The captain had ordered everyone to take a four-hour rest so they could attack the problem with fresh eyes, but then the telemetry from the wormhole started showing alarming signs. The subspace distortion that defined its aperture had abruptly weakened, and when it returned, it was far less stable. The wormhole was guttering like a candle at the end of its wick. According to their best estimates, the wormhole would flicker out in four to six hours.
+The captain called this emergency briefing to learn what all her crew had come up with to this point, hoping it would be enough. 
+“What makes you think you’ll be able to beam out?” said Torres. “We tried to beam Chakotay off the station before we left last time. It shrouded his comm signal and his biosigns behind some kind of dampening field.”
+“We’ll do it the same way we beamed Lopez off of Omekla III,” replied Ayala.
+Torres smiled at the memory she shared with her fellow Maquis, then translated for the benefit of the Starfleeters gathered around the conference table. “Transport enhancers,” she said. “Assembled in the field from a comm device, a tricorder, and some kind of a signal amplifier. I could modify the away team’s equipment to serve the purpose. Nothing would look out of the ordinary when they’re scanned by the station.”
+“What would you use for an amplifier?” asked Janeway.
+“The feedback converter of a compression phaser rifle should do the trick,” she said.
+“There is no way to know whether such a device would penetrate the Delurididug’s dampening field,” said Tuvok.
+“And I doubt the station is just going to stand by while you reconfigure your equipment,” said Harry.
+“That’s where frequency-modulated phaser rifles and a well-timed photonic feedback pulse come in,” said Lieutenant Paris.
+“Oh?” said Torres, her curiosity piqued. “Do tell!”
+“Based on tricorder scans from our last encounter with the station, it looks like it neutralizes our phaser fire by matching and counteracting the pulse frequency. Sound familiar?”
+“The Borg,” said Ensign Kim.
+“Exactly,” said Tom. “We think the station can identify our weapons’ firing frequency when it scans us coming onto the station, so it can adapt its countermeasures before we even fire a shot. But Starfleet has figured out a few tricks for handling Borg-style adaptive countermeasures. It’s all about modulating the phasers’ firing frequencies on the fly. If we can smuggle in a few frequency modulators, maybe disguised as data nodules or tricorder accessories, we can modify our phasers in a flash.”
+“But even if we can make use of our phasers, it’s unlikely we’ll be able to overpower the station’s defensive systems,” said Captain Janeway. “We’ve seen evidence of tractor emitters and holograms, so it’s a sure bet they’ll also have force fields, and probably automated weapons systems resistant to phaser fire.”
+Lieutenant Ayala nodded. “That’s why we’ll trigger a photonic feedback pulse,” he said. “It should destabilize holographic projectors, blind internal sensors, and disrupt confinement beams or tractor emitters in a local area, at least for a short time. We’ll need to interlink at least six tricorders with a power cell from one of our phasers, and it would probably only buy us a few seconds, but if we can use that window to disable whatever measures the station is using to detain Commander Chakotay and assemble the transport enhancers…”
+Captain Janeway began rubbing her temples with her fingertips, trying to release the tension she felt building up before it bloomed into a full-fledged headache. “So… assuming the station lets us come anywhere near the commander in the first place, and assuming the station doesn’t notice the modifications to our equipment and anticipate our tactics, and assuming the station’s systems will be vulnerable to a photonic feedback pulse, and assuming that the pulse will give us enough time to reconfigure our equipment, and assuming our phasers will be capable of disabling any remaining defenses, and assuming an improvised transport enhancer will be capable of penetrating the station’s dampening field… we’ll be home free?” she said. “Did I miss anything?”
+“Even if we are able to get Chakotay off of the station, it is unlikely that the station will allow us to escape through the wormhole,” said Tuvok.
+Janeway sighed. “Right. Let’s table this option for now. Ayala, Paris, you came up with some good ideas under the circumstances, but it just isn’t going to cut it.”
+Paris and Ayala exchanged a look, disappointed, but not surprised. They’d been working on this plan all night. They probably knew better than anyone all the ways it could go wrong.
+“Understood, sir,” said Lieutenant Ayala.
+Janeway nodded and moved on with the briefing. “Torres, what have you got for us?”
+Lieutenant Torres took in a deep breath, leaned in, and in a calm, serious tone, said, “Let’s ram a few photon torpedos up their aft ventral porthole, see how they like that.”
+Janeway was not amused. She regarded her chief engineer with a sober expression for a moment, then said, “So, you’ve got nothing, I take it?”
+Torres let out a frustrated sigh. “I’ve been over the scans hundreds of times. I’ve found countless sensor-invisible points all over the station. I could only spot them after mapping the station’s whole power grid and looking for points where power goes in, but not out, or out, but not in. All of the ship’s vital systems must be hidden in those points. The problem is, there are just so damned many of them, and I’ve got no way of distinguishing a… shield generator from a coffee machine. And even if we could locate a vital system, that station’s a hard nut to crack. I’ve never even seen hexaburnium in person before, but this station is plated with the stuff from bow to stern, and we have no idea what their shields will even look like if we can’t get a look at their shield generators.” 
+She shook her head and sat back in her chair again. “In all seriousness, the only weak points we might feasibly exploit are the portholes along the dorsal and ventral ridges, so my initial recommendation stands. Honestly, though, Captain? We’d have better odds with a boarding party.”
+Janeway took a deep, measured breath, allowing herself a moment to come to grips with her disappointment, and turned to Tuvok. “Please tell me you have a better option, Tuvok.”
+The tactical officer nodded thoughtfully. “Under Federation law, our exploration of derelict ships and structures is protected under ‘right of salvage.’ Unfortunately, Delurididug law doesn’t acknowledge salvage rights.”
+“So, by Delurididug law, we’re guilty,” said Janeway.
+“Not necessarily,” said Tuvok. “There are certain extenuating circumstances.”
+“Such as?” Janeway prompted.
+“The last time we spoke with the A.I. of the station, it did not seem to consider itself a derelict. It seemed to believe that it was operating more or less normally, and thus it treated the away team as returning customers,” said Tuvok.
+“So then, which is it?” said Torres, “Were we trespassers, or were we customers?”
+“That is one point of contention,” said Tuvok. “If the station concludes that our party was trespassing, it will charge Chakotay with unlawful entry and larceny, the penalties for which are severe. Our only defense will be a garbled transmission that included the word ‘welcome,’ and the automated activities of the station.”
+“Oh, that’s right!” said Tom, “It did welcome us, and it opened the door, too. I don’t see how it can accuse us of trespassing after that…”
+“It was automated, though,” said Harry. “Just because a house has a welcome mat, doesn’t mean you can come in any time you like.”
+“No,” said Tom, “But if it turns on the porch light and opens the front door for you as you walk up…”
+“It amounts to a judgment call,” said Tuvok. “The A.I. may decide the garbled transmission was sufficient to act as an invitation. Or, on the contrary, it may see the garbled state of the transmission and the lack of further contact as clear indicators that the station was not operational.”
+Janeway considered his words for a moment. “Lieutenant, what’s our best bet?”
+Tuvok cleared his throat. “So long as the station regards itself as functional, we should avoid any argument contingent on the station being abandoned or derelict. Instead, we should emphasize the lack of guidance the party received on their first arrival. The party was not given the Trade Hub Terms of Service. Therefore, they cannot have violated those Terms knowingly. Also, Captain, in the Delurididug legal system, an individual is not necessarily entitled to select their own legal counsel. The only parties empowered to speak on the defendant’s behalf are the defendant himself, an agent of the tribunal, or an individual with direct legal authority over the defendant.”
+“You mean me,” said Captain Janeway.
+Tuvok nodded. Janeway would have to join the away team, or else Chakotay would be forced to plead his own case with little or no knowledge of the away team’s strategies. 
+It was obviously a risk. If something went wrong, Voyager would lose her captain and her first officer in one stroke. And yet, she wouldn’t have it any other way. She was frankly relieved to have an excuse to fight for her first officer in person. 
+“Tell me, Tuvok, how likely am I to win this case?” said Janeway.
+“That depends,” said Tuvok, “on whether you are willing to bring Ensign Kang to act as a witness.”
+Janeway pinched her lips, clearly not enthralled with the idea. “Say I don’t?”
+“The station may hold you in contempt and suspend the hearing until we are willing to provide the required evidence. It will keep Chakotay in detention and refuse to allow us back on board. Alternatively, the station may choose to go ahead with the hearing anyway. Our evidence will consist largely of sensor logs from our shuttle and the after action reports of the away team, both of which the station is likely to treat with suspicion. It will consider our unwillingness to surrender its technology and intellectual property as evidence of belligerence and poor character. Our odds of winning are low. And even if it sides in our favor, it will still insist we allow it to reverse Kang’s augmentations, or else to pay for services rendered.”
+“And if we do let Kang act as a witness?” said Janeway.
+“It will improve our odds significantly,” said Tuvok. “The station seems to consider Ensign Kang as either an unimpeachable witness or a definitive piece of evidence. It is unclear which, or if there is even a meaningful distinction between the two in the Delurididug legal system. In either case, it is likely that the station will access the ensign’s implants in order to extract the truth from her memories.”
+“You can’t seriously be considering letting the station invade her mind like that,” said Harry.
+Janeway gave Harry a stern look and returned her attention to Tuvok.
+“Ensign’s Kang’s memories will corroborate our testimony,” Tuvok went on. “Assuming that the station can be relied upon to judge our case impartially by the letter of Delurididug law, our odds will be favorable.”
+Janeway nodded thoughtfully. “What sort of penalties can we expect, if we lose?”
+“Primarily financial,” said Tuvok. “The Terms of Service list fines for almost any offense in Delurididug currency, and they do make allowance for bartering. However, what the Delurididug value in barter, we still don’t know. It’s possible we have nothing the station values, in which case, the station may see fit to hold the defendant as collateral against the debt.”
+Captain Janeway drummed her fingers on the conference table, weighing everything they’d discussed so far. 
+Chakotay’s life hung in the balance. She could try to rescue him through subterfuge or force, knowing next to nothing about the powers and weaknesses of her opponent. What she did know about it, though, made both options seem extraordinarily foolhardy. 
+She could lose precious time sending more probes and away missions through the wormhole to study the station more closely, risking more adversarial contacts with the station that could make matters even worse. Realistically, though, four hours wasn’t enough time to dig up more information, then plan and launch a rescue mission. They needed to get over to the station as soon as possible.
+Silence reigned over the conference room for a protracted moment as Janeway considered her options. Finally, Tom broke the quiet. 
+“Permission to speak freely, sir?” 
+“Granted,” said Janeway.
+“Harry’s right,” said Tom. “We can’t ask Kang to go back in there. What that station did to her…” He trailed off, shaking his head.
+“We don’t have to ask, Lieutenant,” said Captain Janeway. “She’s already volunteered.”
+Tom cast an uncertain glance at the others at the table. “Ok, but the Doctor said she wasn’t mentally competent.”
+“No,” said Janeway, “The Doctor said she wasn’t fit for regular duty. There’s a significant difference. And after speaking with the ensign, I’m not entirely sure I agree with the Doctor’s call.”
+“But if she isn’t capable of fear or regret, she can’t possibly understand what she’s volunteering for,” said Tom.
+Tuvok’s eyebrow rose. “On the contrary, Lieutenant,” he said, “Fear is far more likely to cloud one’s judgment than to improve it.”
+Ayala smirked. “True. No one ever claimed Vulcans weren’t fit for duty, and they never demonstrate fear.” 
+“Nor do Klingons, for that matter,” said Torres.
+“Yeah, but Ensign Kang isn’t a Vulcan or a Klingon,” said Harry.
+Captain Janeway sighed and tapped her combadge. “Captain Janeway to Ensign Kang.”
+The conversation around the table stopped, and all eyes turned to the captain.
+“Yes, Captain!” came Ensign Kang’s voice, “Ensign Kang here.”
+“Report to the deck one conference room.”
+There was a moment of hesitation, and then, “Aye, sir! I’ll be right there.”
+Janeway tapped her badge again to close the line. “Why don’t we have this discussion with the one person who could actually settle it?”
+ 
+
+ 
+When the Doctor was finally done with Ensign Kang’s physical exam that morning, and when he was done haranguing her for engaging in intimate activities in spite of her “condition,” Lucy was left at ends with how to spend the rest of her day. She wanted to call Owen, but that would be a slippery slope towards violating the orders of her captain as well as her doctor. She decided it would be best to keep her distance until things settled down.
+So, she ambled around the ship aimlessly for a bit, catching up with acquaintances she encountered coming off of gamma shift and eventually making her way down to the mess hall for a breakfast that wouldn’t cost any replicator credits.
+She found Kigon in the mess hall, bent over a bowl of one of Neelix’s trademark dishes; scrambled reka ova with a side of “Tuber Surprise.” The normally boisterous Bolian hardly looked up from his dish as she approached his table, but she didn’t hold it against him. She knew he’d just come off his fifth twelve-hour shift in a row, covering for her absence.
+“Can I have a seat?”
+“Of course, sir,” said Kigon. His attention returned immediately to his bowl.
+Lucy sat across from him. “It’s ‘sir’ now? I thought your shift ended half an hour ago, Crewman.”
+Kigon and she hadn’t stood on ceremony with each other in quite some time. Ever since they’d spent thirty-six straight hours together, staving off a cascade failure of the tactical BNG grid while the ship was under constant attack by Kazon raiders, the formalities had felt a bit out of place, particularly since he didn’t actually report to her. They both reported to Lieutenant Torres.
+Kigon put down his fork and looked up from his meal, an apologetic look on his face. “Sorry, Kang. I’m just a bit frazzled.”
+“It’s alright,” said Lucy. “I imagine it’s been tough, covering my shifts the last couple days.”
+Kigon nodded and looked back at his bowl, but he didn’t pick up his fork again. He stared at the bowl for so long that Lucy started to worry about him.
+“What, are you scanning for lifesigns or something?” she said.
+“Look…” said Kigon, looking up from his bowl again, “Kang. I’m sorry I haven’t come by to see you.”
+“It’s ok,” said Lucy, “You’ve been busy. I get it.”
+“No… I mean yes, I have, but that’s not the only reason.”
+Lucy nodded but didn’t say anything, letting him continue in his own time.
+“I was afraid,” he said. “Afraid you might have been some kind of… I don’t know, like a duplicate, or possessed, or something even weirder.” He chuckled, but it sounded painful, somehow. “You know how it is, out here.”
+“I do,” said Lucy. “I know. I don’t blame you.”
+An awkward moment stretched between them, and Lucy suspected he still wasn’t over his fears. Kigon’s gaze started wandering back down to his bowl.
+“Well anyway, I’m probably going back to the station soon… so that it can turn me back.”
+“Oh,” said Kigon. “That’s good.”
+Lucy tried to smile and failed. “Yeah.”
+Kigon picked up his fork again and started in on his dinner.
+Lucy was about to stand again when Kigon spoke up. “Something’s weird with the BNG’s,” he said.
+“Oh?” said Lucy, intrigued.
+Kigon nodded. “I spent the morning hunting down a malfunctioning pack that was threatening a cascade failure. It would’ve knocked half the packs in the upper decks offline.”
+Lucy rolled her eyes. “Oh, don’t you just love those?”
+Kigon acknowledged her sarcasm with a smirk. “Never gets old.”
+“So you found it, I’m guessing?”
+Kigon shook his head. “Well, yeah, I did, but not…” he paused for emphasis, “until after the pack apparently self-corrected.”
+Lucy blinked. “What do you mean? A diagnostic sweep? Or…”
+Kigon shook his head again. “No, the diagnostics couldn’t pinpoint it, you know, or I wouldn’t have been on my hands and knees in the Jefferies tubes all morning. I mean by the time I’d almost managed to single out the bad pack, it wasn’t bad anymore. It took me a while when I found it to be sure it was even the right one, but once I pulled its log, I discovered its sodium sensor had somehow spontaneously reset.”
+Ok, that was weird. Lucy remembered the bizarre dream that mashed up the BNG grid and the Doctor’s holodeck program, where she’d hunted down a rogue character that was also a BNG pack and performed exactly the fix that Kigon described. What were the odds that it was a coincidence? The timeframe even lined up; Lucy had taken her nap early in the evening, which aligned with Kigon’s morning.
+She was looking for a way to confess what she’d learned in a way that wouldn’t make Kigon even more scared of her when Neelix approached their table with a bowl in hand.
+“Lucy! I haven’t seen you in here in a couple days at least! Did you not like the soup I sent you?”
+Lucy met his gaze and watched as the good-natured twinkle in his eye vanished under an expression of alarm.
+“Um, Ensign, I’m sorry, I’m not completely familiar with your condition, but is it normal for your skin to take on that color?”
+Lucy arched an eyebrow, ready to reassure the cook about whatever strange thing her skin had decided to do now, when she caught a glimpse of her hands.
+They were turning blue.
+Lucy pressed the back of her hand to her cheek experimentally. Her skin temperature felt normal. She took a deep breath. She didn’t seem to be having trouble breathing. She felt her pulse on her neck. It was still carrying on slow and steady, just as it had since she woke in sickbay after the incident. 
+“I’m pretty sure I’m fine,” said Lucy. She met Kigon’s eyes and saw a flicker of… was that appreciation? It vanished quickly under a veil of concern.
+“How do I look?” she asked. She glanced at her hands again and saw her color change had progressed well past the point that could have been explained by cyanosis. She was as blue as the Bolian sitting across from her, now.
+He looked uncertain, but he confessed, “It suits you. But… what’s happening?”
+Lucy sighed. “Evidently, I’ve become a chameleon. Could you excuse me, Kigon, Neelix? I need to visit the Doctor. A couple things just kind of clicked into place for me.”
+“Should I call him?” said Neelix.
+“No,” said Lucy. “It’s not an emergency. Just… I’ll be by in a bit, ok Neelix? Keep some ova and tubers warm for me, please.”
+“Sure thing,” said Neelix, and he offered an understanding smile.
+“I’ll see you, Kigon. Don’t be a stranger, ok?”
+Kigon nodded. “Sure thing, Kang. Same to you.” 
+Lucy left the mess hall at a determined pace, curious to see if the Doctor would agree with her theory about her color-changing reflex. She knew she would have to tell him about her suspicion that she was somehow fixing the ship in her sleep, too, and she supposed there might be some unpleasant fallout from that particular revelation, but it would probably count in her favor if she reported the issue as soon as she learned about it.
+Then Lucy’s badge chirped. “Captain Janeway to Ensign Kang.”
+“Yes, Captain!” said Lucy. She stopped in the middle of the corridor. “Ensign Kang here.”
+“Report to the deck one conference room.”
+Lucy was momentarily stunned. She’d never been to the conference room in her life. “Aye, sir! I’ll be right there,” she said. Lucy started forward again, and then she remembered her present appearance.
+Lucy didn’t want to be blue the first time she attended a meeting of the senior staff. She didn’t want to stand out any more than she already did because of her condition. It would be a distraction and a complication to whatever the meeting was about.
+Lucy stared hard at her blue fingers, wondering how to force them back to their natural tone. She rubbed her hands together, as if she could rub away the color like makeup or paint. She shook her hands a few times, took a deep breath, closed her eyes, and concentrated. 
+Lucy focused on her natural skin tone. She visualized the conference room with all the senior staff gathered, trying to communicate to her implants the importance of arriving at this meeting in her natural hue.
+Lucy opened her eyes and regarded her skin.
+It was still blue.
+She rolled up her sleeves a bit, looking for any evidence that the color was fading, but she was still just as blue as the midday sky on Alpha Centauri.
+“Come on!” she said, swatting her wrist, as if she could punish her skin into behaving itself.
+“I don’t have time for this, you stupid implants!” Lucy looked around her environment, wondering what she could use to help this situation. She even contemplated returning to her quarters and trying to cover her complexion in makeup, but it was a ridiculous notion borne of frustration.
+Lucy took a deep breath, settled herself, and resolved to head into the briefing the way she was.
+“Lucy, is that you?”
+She whirled around at the sound of his voice. Owen stood in the corridor behind her, looking confused.
+“Hi, Owen,” said Lucy.
+“What happened here?” he said, looking her up and down in wonder.
+She shrugged. “Just… feeling a bit blue.”
+Owen arched a brow. “Are you practicing your control? Or…”
+Lucy laughed once. “Control. That would be nice, right about now.”
+Owen looked worried. He stepped closer and studied her face for a moment, and Lucy felt herself blushing. She wondered if it was visible through her blue skin. 
+“Let me call the Doctor,” said Owen.
+Lucy shook her head. “I’m fine, it’s just cosmetic. And the captain just called me to the briefing room.”
+“And you’re going like that?” said Owen.
+Lucy shrugged. “Not like I’ve got much choice.”
+“Hey,” said Owen, and he put a comforting hand on her shoulder. “It’ll be alright. Don’t worry.”
+Lucy looked into his warm, hazel eyes for a moment. “I’m not worried,” she said. 
+“I know,” said Owen, smiling. “Still, though.”
+Lucy nodded. “Thanks,” she said.
+“Well, go on, then,” he said. “Can’t keep the captain waiting.”
+“Right,” said Lucy. “Bye.”
+She turned around and started back down the corridor, when Owen called, “Hey, wait!”
+Lucy turned back, and Owen was back to scrutinizing her face.
+“You’re changing again.”
+Lucy looked down at her hands, and indeed, her skin was lightening, the blue fading out of it.
+“Has this been happening a lot?” said Owen.
+Lucy shook her head. “No, but I’m starting to get a handle on what causes it. Just… look at me a little longer, ok?”
+She met his eyes, and for a long moment, they just looked at each other. Then Lucy checked her hand again, and she was overjoyed to find her ordinary, pale, olive-brown skin. 
+She favored Owen with a wide smile. “Thank you, Owen. You’re a lifesaver. If it weren’t a violation of direct orders, I’d kiss you right now.”
+His expression became melancholy. “A shame.”
+Lucy shrugged, unsure what to make of his reaction. She walked back to him and wrapped her arms around his chest, hugging him close for a long moment. He wrapped his own strong arms around her and buried his face in her hair for just a second, then let go. Lucy stepped back.
+“So did I cause you to change color, somehow?” he asked.
+Lucy nodded. “In a way, I think. Thanks again.” She smiled for him.
+“Well, you’ll have to explain that to me later on. Now get going, already!” said Owen.
+“Right,” said Lucy, “See you later.”
+She turned around and headed for the turbolift at a jog, mindful of all the time she’d lost already. 
+ 
+
+ 
+“I’ll do it, sir,” said Lucy. She stood in the doorway of the deck one conference room, regarding the entire senior staff, minus Chakotay and the Doctor.
+“I haven’t even explained the situation, Ensign,” said Captain Janeway.
+“Sorry, sir,” said Lucy. She took an empty seat at the conference table between Tom and Tuvok and did her best to restrain her excitement at sitting at the table where all the big decisions were made.
+Captain Janeway went on to explain the legal dilemma facing the crew, the immense benefit that Lucy’s testimony could provide, and the significant risks she would be facing.
+“Do you understand the danger you’d be in if you went back there, Ensign?”
+Lucy nodded. “I do, sir. But if we have to go through with this trial, then I don’t see where we have a choice.”
+“It’s going to invade your head, Lucy,” said Harry. “It might be able to control your mind. Compel you to do things you don’t want to do.”
+“I get that, Harry,” said Lucy. It bugged her that he didn’t seem able to accept her at her word. “My security privileges have already been revoked, and my knowledge of ship’s systems is limited to the bioneural gel packs and ODN relays. The threat to the ship is small.”
+“That’s not what we’re worried about,” said Tom. “Doesn’t the idea of that… thing… going back into your head again, bother you?”
+Lucy glared at Tom. She took a moment to focus on dialing back her annoyance so she could address her superior officer respectfully. “Of course it does, sir. If it were just my own life we were talking about, I’d never set foot on that station again. But this isn’t about me. This is about Commander Chakotay, and the possibility of getting us home. Maybe that’s difficult for you to believe. Maybe you think I’m not capable of sound judgment, as if the fact that I’m not afraid must mean I can’t understand risk. Well, I understand the risks just fine, even if I am a little bit impaired. I’m a Starfleet officer. Risk is part of the job. I’ll face any danger, any hardship to get this ship to Earth in one piece, just like everyone else in this room.
+She turned away from Tom and addressed Captain Janeway directly. “Captain, for the sake of Chakotay and everyone on Voyager, please let me go on this mission. I won’t let you down.”
+The captain nodded thoughtfully and looked around the room, taking the measure of her officers, and then she began issuing orders.
+“Torres, Ayala, get a team started on all the preparations that Tom and Ayala came up with. That will be our last resort. The “aft ventral porthole” plan is off the table. 
+“Harry, get to the shuttlebay and warm up the type 6 shuttlecraft. I want it ready to launch the moment the away team is assembled. While you’re at it, download a comprehensive and up-to-date inventory of the ship’s stores to the shuttle computer. Include the produce in the botany lab and the medical samples in sickbay. We don’t know what might catch the station’s fancy. Then, I need you to download and encrypt every unclassified chart, survey, and analysis in our stellar cartography database. Then, if you have time, download everything in our cultural database, as well.
+“Tom, get with Chief Vance, Ensign Vorik, and whoever is next on rotation in security. Get them briefed on the situation and prepared to act on our contingency plan. 
+“Tuvok, I’ll need you to brief me in detail on our legal strategy. Kang, you’re with us. You need to know our legal arguments as well.
+“I’ll be leading this away mission. I’m bringing with me the full contingent of the original boarding party in order to provide testimony and demonstrate good faith, but we’re going into this with eyes open. Tuvok, you’ll be on the bridge. Under no circumstances is anyone to come through the wormhole after us. If the wormhole closes before we return, maintain station for twenty-four hours, then set course for the Alpha Quadrant.
+“We depart in one hour. Is everyone clear?”
+From all quarters, the response was, “Aye, sir!”
