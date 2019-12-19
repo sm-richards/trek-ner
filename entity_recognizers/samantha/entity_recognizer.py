@@ -158,49 +158,6 @@ class WordVectorFeature2(FeatureExtractor):
                 pass
 
 
-class BrownClusterFeature(FeatureExtractor):
-    def __init__(
-        self,
-        clusters_path: str,
-        *,
-        use_full_paths: bool = False,
-        use_prefixes: bool = False,
-        prefixes: Optional[Sequence[int]] = None,
-    ):
-        self.clusters = defaultdict(str)
-
-        with open(clusters_path) as cluster_file:
-            for line in cluster_file.readlines():
-                line = line.split()
-                self.clusters[line[1]] = str(line[0])
-
-        self.use_full_paths = use_full_paths
-        self.use_prefixes = use_prefixes
-        self.prefixes = prefixes
-
-        if not use_full_paths and not use_prefixes:
-            raise ValueError
-
-    def extract(
-        self,
-        token: str,
-        current_idx: int,
-        relative_idx: int,
-        tokens: Sequence[str],
-        features: Dict[str, float],
-    ) -> None:
-        if relative_idx == 0:
-            if self.use_full_paths:
-                features["cpath=" + self.clusters[token]] = 1.0
-            if self.use_prefixes:
-                if self.prefixes is None:
-                    features.update({"cprefix" + str(n + 1) + "=" + self.clusters[token][:n + 1]: 1.0
-                                    for n in range(len(self.clusters[token]))})
-                else:
-                    features.update({"cprefix" + str(n) + "=" + self.clusters[token][:n]: 1.0
-                                    for n in self.prefixes if n <= len(self.clusters[token])})
-
-
 class WindowedTokenFeatureExtractor:
     def __init__(self, feature_extractors: Sequence[FeatureExtractor], window_size: int):
         self.feature_extractors = feature_extractors
@@ -275,24 +232,6 @@ class BIOEncoder(EntityEncoder):
 class IOEncoder(EntityEncoder):
     def encode(self, tokens):
         return ['I-' + token.ent_type_ if token.ent_type_ is not '' else 'O' for token in tokens]
-
-
-def decode_old(labels: Sequence[str], tokens: Sequence[Token], doc: Doc) -> List[Span]:
-    spandict = defaultdict(list)
-    i = 0
-    for index, label in enumerate(labels):
-        doc_index = tokens[index].i
-        if label != 'O':
-            if label[0] == 'B':
-                i = index
-            spandict[(label[2:], i)].append(doc_index)
-        elif label == 'O':
-            i = index + 1
-    spanlist = []
-    for label, doc_span in spandict.items():
-        spanlist.append(Span(doc, doc_span[0], doc_span[-1] + 1, label[0]))
-
-    return spanlist
 
 
 def decode(labels: Sequence[str], tokens: Sequence[Token], doc: Doc) -> List[Span]:
@@ -420,9 +359,6 @@ def span_scoring_counts(
     return ScoringCounts(Counter(tp), Counter(fp), Counter(fn))
 
 
-# BEGINNING OF HW4 CONTENT----------------------------------------------------------------------------------------------
-
-
 def ingest_json_document(doc_json: Mapping, nlp: Language) -> Doc:
 
     text = doc_json['text']
@@ -504,6 +440,7 @@ def read_in_test_data(file, nlp):
             annotation = json.loads(line)
             docs.append(ingest_json_document(annotation, nlp))
     return docs  # train data, dev data
+
 
 # MAIN -----------------------------------------------------------------------------------------------------------------
 def main() -> None:
