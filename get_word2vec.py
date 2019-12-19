@@ -4,42 +4,41 @@ tutorial at https://blog.cambridgespark.com/tutorial-build-your-own-embedding-an
 
 
 """
-
-import json
 from gensim.models import Word2Vec
-import re
+from entity_recognizer import ingest_json_document
+import spacy
+import os
 
-train_set = {}
+train_set = []
 
-# get only train set (first 565 documents)
-with open("annotated_files/annotated_data.jsonl", encoding="utf-8") as f:
-    decoder = json.JSONDecoder()
-    for i,document in enumerate(f):
-        if i > 565:
-            break
-        document = decoder.decode(document)
-        train_set[i] = document
+# get entire corpus
+rootdir = './Datasets'
+corpus = []
+nlp = spacy.load("en_core_web_sm", disable=["ner"])
+for subdir, dirs, files in os.walk(rootdir):
+    for file in files:
+        if file != '.DS_Store':
+            with open(os.path.join(subdir, file), 'r') as f:
+                lines = f.readlines()
+                text = "".join(lines[5:])
+                text = text.lower()
+                text = text.replace(")[", ") ")
+                text = text.replace("\n", " ")
+                text = text.replace(".)", ". ")
+                doc = nlp(text)
+                sentences = doc.sents
+                for sentence in sentences:
+                    corpus.append([str(token) for token in list(sentence.__iter__())])
 
-train_set_split = []
+w2v = Word2Vec(corpus, size=300, window=4, min_count=3, negative=15, iter=20)
 
-for doc in train_set:
-    sentenced = re.split(r'[.?!]', train_set[doc]["text"])
-    for sentence in sentenced:
-        sentence = re.findall(r"[\w']+|[\[\]\(\):,;]", sentence)
-        sentence.extend(".")
-        train_set_split.append(sentence)
-
-EMB_DIM = 300
-
-# w2v = Word2Vec(train_set_split, size=EMB_DIM, window=4, min_count=3, negative=15, iter=20)
-
-# word_vectors = w2v.wv
-# result = word_vectors.similar_by_word("Picard")
-# print(result)
-
-# w2v.save('trek_w2v.model')
-
-new_model = Word2Vec.load('trek_w2v.model')
-new_word_vectors = new_model.wv
-result = new_word_vectors.similar_by_word("Picard")
+word_vectors = w2v.wv
+result = word_vectors.similar_by_word("picard")
 print(result)
+w2v.save('trek_w2v_fics.model')
+
+#odel = Word2Vec.load('trek_w2v_fics.model')
+#vectors = model.wv
+#print(vectors.similar_by_word("vulcan"))
+
+
