@@ -1,7 +1,7 @@
 Code
 - entity_recognizers/entity_recognizer.py (the actual model and most of its supporting code)
 - cosi217 
-- hw3utils.py.
+- hw3utils.py
 
 Data files
 - annotated_files/annotated_data.jsonl (training & dev annotated corpus)
