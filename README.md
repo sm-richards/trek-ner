@@ -9,4 +9,4 @@ Data files
 - dataset.zip (the full dataset containing complete star trek episodes, used to train word2vec model)
 
 Other
-- get_word2vec.py (unfortunately, in order to train the model in entity_recognizer.py, you need to generate a file called trek_w2v.model, which was too large to upload here)
+- get_word2vec.py (unfortunately, in order to train the model in entity_recognizer.py using the word vector feature, you need to generate a file called trek_w2v.model, which was too large to upload here)
