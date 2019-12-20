@@ -5,7 +5,6 @@ tutorial at https://blog.cambridgespark.com/tutorial-build-your-own-embedding-an
 
 """
 from gensim.models import Word2Vec
-from entity_recognizer import ingest_json_document
 import spacy
 import os
 
@@ -35,7 +34,7 @@ w2v = Word2Vec(corpus, size=300, window=4, min_count=3, negative=15, iter=20)
 word_vectors = w2v.wv
 result = word_vectors.similar_by_word("picard")
 print(result)
-w2v.save('trek_w2v_fics.model')
+w2v.save('trek_w2v.model')
 
 #odel = Word2Vec.load('trek_w2v_fics.model')
 #vectors = model.wv
